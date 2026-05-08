@@ -35,7 +35,8 @@
     <li>Advanced Backend Architecture</li>
     <li>Express.js & Fast API Development</li>
     <li>Authentication & Authorization (JWT)</li>
-    <li>Database design with SQL & PostgreSQL</li>
+    <li>Database design with MySQL & PostgreSQL</li>
+    <li>Prisma ORM & Flask-SQLAlchemy</li>
     <li>Testing APIs with Jest & Supertest</li>
     <li>Docker, CI/CD & Production Deployment</li>
     <li>Cloud Hosting with Render, Railway & Vercel</li>
@@ -59,7 +60,9 @@
     <li>Authentication & Authorization</li>
     <li>Middleware & Routing</li>
     <li>Error Handling & Validation</li>
-    <li>Database Integration</li>
+    <li>MySQL & PostgreSQL Database Management</li>
+    <li>Prisma ORM</li>
+    <li>Flask & Flask-SQLAlchemy</li>
     <li>API Testing & Documentation</li>
     <li>Deployment & Production Optimization</li>
     <li>Server Maintenance & Monitoring</li>
@@ -67,7 +70,7 @@
 
   <h2>🛠️ Tech Stack</h2>
 
-  <p><strong>Languages</strong></p>
+  <p><strong>Languages & Databases</strong></p>
 
   <p>
     <img src="https://skillicons.dev/icons?i=html" height="40"/>
@@ -78,13 +81,17 @@
     <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   </p>
 
-  <p><strong>Frameworks & Runtime</strong></p>
+  <p><strong>Frameworks, Runtime & ORM</strong></p>
 
   <p>
     <img src="https://skillicons.dev/icons?i=react" height="40"/>
     <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
     <img src="https://skillicons.dev/icons?i=express" height="40"/>
     <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+    <img src="https://img.shields.io/badge/Flask_SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   </p>
 
   <p><strong>Backend & Deployment</strong></p>
